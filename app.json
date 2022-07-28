@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "scheme": "mychat",
+    "name": "deepLinkEx",
+    "slug": "deepLinkEx",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.vinispirit.deepLinkEx"
+    }
+  }
+}
